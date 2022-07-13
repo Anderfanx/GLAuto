@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.Text;
+
+namespace CountApp
+{
+    internal class TestCommit
+    {
+        public static void Main(String[] args)
+        {
+          Console.WriteLine("Hello, World!");
+
+        }
+
+
+    }
+
+}

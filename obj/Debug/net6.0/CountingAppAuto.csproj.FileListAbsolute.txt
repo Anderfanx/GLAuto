@@ -1,0 +1,15 @@
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.csproj.AssemblyReference.cache
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.AssemblyInfoInputs.cache
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.AssemblyInfo.cs
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.csproj.CoreCompileInputs.cache
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\bin\Debug\net6.0\CountingAppAuto.exe
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\bin\Debug\net6.0\CountingAppAuto.deps.json
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\bin\Debug\net6.0\CountingAppAuto.runtimeconfig.json
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\bin\Debug\net6.0\CountingAppAuto.dll
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\bin\Debug\net6.0\CountingAppAuto.pdb
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.dll
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\refint\CountingAppAuto.dll
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.pdb
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\CountingAppAuto.genruntimeconfig.cache
+C:\Users\AndersonEgwurugwu\source\repos\CountingAppAuto\CountingAppAuto\obj\Debug\net6.0\ref\CountingAppAuto.dll
